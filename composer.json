@@ -1,0 +1,8 @@
+{
+    "require": {
+        "microsoft/microsoft-graph": "^1.15",
+        "league/oauth2-client": "^2.5",
+        "vlucas/phpdotenv": "^5.1",
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
